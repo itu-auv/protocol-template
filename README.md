@@ -1,3 +1,3 @@
-# ACQ Protocol 
+# Protocol Template 
 
-ACQ protocol is a communication protocol built on Google's Protocol Buffers (protobuf) for communicating with acoustic processing board.
+This is a template repository that is used to generate necessary source files from Google's protocol buffer .proto files.
